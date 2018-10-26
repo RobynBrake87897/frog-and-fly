@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ 10\ marks\r\n
+comment1.params=
+comment1.target=Frog()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ If\ the\ frog\ encounters\ the\ fly,\ the\ game\ ends,\ so\ stop\ the\ scenario.\r\n\ Make\ the\ frog\ turn\ off\ course\ 35%\ of\ the\ time.\ and\ frog\ will\ turn\ left\ or\r\n\ right\ 15\ degrees\ equally\ as\ often.\ also,\ If\ the\ frog\ is\ near\ an\ edge\ of\ \r\n\ the\ world,\ make\ it\ turn\ 7\ degrees\ to\ the\ right.\r\n\ \r\n\ @param\ none\ noth8ing\ is\ required\r\n\ @return\ none\ nothing\ is\ returned\r\n
+numComments=3

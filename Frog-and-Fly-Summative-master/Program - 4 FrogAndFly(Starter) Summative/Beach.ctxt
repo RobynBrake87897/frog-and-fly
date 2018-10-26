@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment2.params=n
+comment2.target=void\ addFood(int)
+comment2.text=\r\n\ Adds\ n\ Food\ objects\ to\ the\ world\r\n\ \r\n\ @param\ (int\ n)\r\n\ @return\ nothing\ is\ required\r\n
+comment3.params=
+comment3.target=void\ addFood()
+comment3.text=\r\n\ adds\ 10\ food\ items\ randomly\ in\ the\ world\r\n\ \r\n\ @param\ none\ there\ are\ none\r\n\ @return\ nothing\ is\ required\r\n
+comment4.params=
+comment4.target=void\ addFrog()
+comment4.text=\r\n\ adds\ a\ frog\ in\ the\ middle\ of\ the\ world\r\n\ \r\n\ @param\ none\ noth8ing\ is\ required\r\n\ @return\ none\ nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ update()
+comment5.text=\r\n\ updates\ score\ in\ top\ left\ courner\ if\ you\ touch\ food\r\n\ \r\n\ @param\ none\ tnothing\ is\ required\r\n\ @return\ none\ nothing\ is\ returned\r\n
+numComments=6
